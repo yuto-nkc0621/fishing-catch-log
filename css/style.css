@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto';
+    background-color: rgb(172, 172, 172);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.web-intro {
+    text-align: center;
+}
+
+nav {
+    background-color:white;
+}
+
+nav a {
+    color: black;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+.search{
+    text-align: center;
+}
+
+.catch {
+    background-color: rgb(253, 183, 103);
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.fish-image {
+    width: 200px;
+    height: 280px;
+}
+
