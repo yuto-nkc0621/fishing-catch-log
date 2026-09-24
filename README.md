@@ -21,4 +21,4 @@ Users can view caught fish, fishing locations, weight, and date. Users can also 
 
 ## Live Application
 
-GitHub Pages link will be added here.
+[View Fishing Catch Log](https://yuto-nkc0621.github.io/fishing-catch-log/)
